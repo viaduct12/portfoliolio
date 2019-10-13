@@ -131,7 +131,7 @@ span.menu {
   display: block;
   font-size: 1em;
   font-weight: 400;
-  color: #fff;
+  color: crimson;
   text-decoration: none;
 }
 .top-navg ul.res li a:hover {
@@ -143,7 +143,7 @@ span.menu {
 	padding:15em 0 5em;
 }
 .banner h1{
-	color: #fff;
+	color: crimson;
 	font-size:3em;
 	font-family: 'MarkoOne-Regular';
 }
@@ -196,7 +196,7 @@ span.menu {
   font-family: 'MarkoOne-Regular';
 }
 .weare-main p {
-  color: #999;
+  color: forestgreen;
   font-size: 1.1em;
   font-style: italic;
   line-height: 1.8em;
